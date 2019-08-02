@@ -1,0 +1,3 @@
+[build]
+  publush = "dist"
+  command = "yarn build"
